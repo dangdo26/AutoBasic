@@ -1,0 +1,1 @@
+{"uuid":"335c62db-8cdc-46c0-911c-e8829dd7c9b0","name":"AutoBasic","children":["fc1288d0-4973-43f0-8d90-2f7f5dbd35bf"],"befores":[],"afters":[{"name":"closeDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732432355401,"stop":1732432356260}],"start":1732432347960,"stop":1732432356261}

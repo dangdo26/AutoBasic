@@ -1,0 +1,1 @@
+{"uuid":"00e1e0d0-b0b3-44ad-97a7-20e78c39e26b","name":"Testcase.LoginTestcase","children":["ae846bfb-021b-48f8-b000-503d897d9987"],"befores":[{"name":"createDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732432092963,"stop":1732432094958}],"afters":[],"start":1732432092933,"stop":1732432096979}

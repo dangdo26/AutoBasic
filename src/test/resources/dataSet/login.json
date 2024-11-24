@@ -1,0 +1,42 @@
+[
+  {
+    "username": "superadmin@techres.vn",
+    "pass": "0123",
+    "case": "LoginTestPass"
+  },
+  {
+    "username": "supersuperadmin@techres.vn",
+    "pass": "0123",
+    "case": "LoginTestInvalidUsername"
+  },
+  {
+    "username": "superadmin@techres.vn",
+    "pass": "1235",
+    "case": "LoginTestInvalidPassword"
+  },
+  {
+    "username": "SSSsuperadmin@techres.vn",
+    "pass": "123521",
+    "case": "LoginTestInvalidUserAndPass"
+  },
+  {
+    "username": "",
+    "pass": "",
+    "case": "LoginTestEmptyUserAndPass"
+  },
+  {
+    "username": "",
+    "pass": "1235",
+    "case": "LoginTestEmptyUsername"
+  },
+  {
+    "username": "superadmin@techres.vn",
+    "pass": "",
+    "case": "LoginTestEmptyPassword"
+  },
+  {
+    "username": "SUPERADMIN@TECHRES.VN",
+    "pass": "0123",
+    "case": "LoginTestUppercaseLetters"
+  }
+]
